@@ -25,15 +25,15 @@
 
 Supreme Admin 
 
-Insert Image
+![IMG_1450](https://github.com/user-attachments/assets/a265dd35-5db7-4a3a-a81b-f7c124a9b20a)
 
-Insert Image
+![IMG_1451](https://github.com/user-attachments/assets/ebe7e0e1-bca2-445f-82b6-257f22575279)
 
-Insert Image
+![IMG_1452](https://github.com/user-attachments/assets/fb1fd8fe-0ae9-40f3-b952-eee065942c78)
 
-Insert Image
+![IMG_1453](https://github.com/user-attachments/assets/9112ac15-8c3c-4b2e-931a-1fa19469904a)
 
-Insert Image
+![IMG_1454](https://github.com/user-attachments/assets/3f9c36eb-7780-4eda-a816-3975f3192dd1)
 
 <h1 align="center"> Configure Departments </h1>
 
